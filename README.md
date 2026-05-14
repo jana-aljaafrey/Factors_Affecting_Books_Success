@@ -37,7 +37,7 @@ Recommendations
 ⸻
 
 Dashboard Screenshot
-![books sales Dashboard](image\‪books_sales_Dashboard.png)
+![books sales Dashboard](image/‪books_sales_Dashboard.png)
 
 ⸻
 
